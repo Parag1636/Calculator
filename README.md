@@ -6,6 +6,7 @@ Title of the program is Addition Calculator
   * Getting 2 Number from the User.
   * Button which performs Addition by calling Add() in index.js file.
   * Paragraph for Addition Result
+  * meta http-equiv tag replace unsafe-eval with unsafe-inline for inline js.
   * Source attched for cordova.js and index.js.
 
 ##### index.js
